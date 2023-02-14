@@ -1,0 +1,24 @@
+{
+  "short_name": "Groupomania social network",
+  "name": "Réseau social de l'entreprise Groupomania",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg"
+    },
+    {
+      "src": "icon.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-background.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
