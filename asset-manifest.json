@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "//kse-nia.github.io/groupomania-frontend/static/css/main.7ddd29ef.css",
+    "main.js": "//kse-nia.github.io/groupomania-frontend/static/js/main.e8cea285.js",
+    "static/js/787.cda612ba.chunk.js": "//kse-nia.github.io/groupomania-frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/icon-above-font.svg": "//kse-nia.github.io/groupomania-frontend/static/media/icon-above-font.73d73abeb17246cc7a2b3a84fa72e042.svg",
+    "static/media/Logo2.svg": "//kse-nia.github.io/groupomania-frontend/static/media/Logo2.19aa0a7c985187a122d3244aba7e11d0.svg",
+    "index.html": "//kse-nia.github.io/groupomania-frontend/index.html",
+    "main.7ddd29ef.css.map": "//kse-nia.github.io/groupomania-frontend/static/css/main.7ddd29ef.css.map",
+    "main.e8cea285.js.map": "//kse-nia.github.io/groupomania-frontend/static/js/main.e8cea285.js.map",
+    "787.cda612ba.chunk.js.map": "//kse-nia.github.io/groupomania-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ddd29ef.css",
+    "static/js/main.e8cea285.js"
+  ]
+}
